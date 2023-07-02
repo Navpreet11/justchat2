@@ -1,0 +1,5 @@
+streamlit  == 1.24.0
+sqlite
+datetime
+Pillow ==9.5.0
+time
